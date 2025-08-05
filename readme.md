@@ -2,14 +2,6 @@
 
 A FAT32 disk image explorer and manipulation utility in C.
 
-## Repository Name
-
-**nyufile**
-
-## Short Description
-
-nyufile provides command-line tools to inspect and modify files on a FAT32 filesystem image. It supports directory listing, file extraction, and file injection operations.
-
 ## Contents
 
 - **nyufile.c**: Main CLI for listing directories and extracting files from a FAT32 disk image.
@@ -67,8 +59,4 @@ Remove compiled binaries and object files:
 ```sh
 make clean
 ```
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
 
